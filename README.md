@@ -1,10 +1,7 @@
 <h1>Hi there 👋, bem vindo ao meu GitHub ✌</h1>
 
 <div>
-  <a href="https://github.com/JhonatanAlves4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanAlves4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanAlves4&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  
   <hr>
 <div style="display: inline_block">
   <img align="center" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
